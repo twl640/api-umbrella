@@ -1,4 +1,4 @@
-FROM nrel/api-umberlla
+FROM nrel/api-umbrella
 
 RUN apt-get update
 
